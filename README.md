@@ -1,23 +1,23 @@
 # emotion_detection
-# 🧠 Emotion Detection from Text
+# Emotion Detection from Text
 
 This project detects emotions (like joy, anger, sadness, etc.) from text messages using Natural Language Processing (NLP) techniques. It can serve as the foundation for emotion-aware chatbots, mental health tools, or educational feedback systems.
 
 ---
 
-## 📌 Problem Statement
+# Problem Statement
 
 AI can be used in education and mental health by detecting student emotions from messages.
 
 ---
 
-## 🎯 Objective
+# Objective
 
 Classify emotions such as happy, sad, angry, etc., from text using machine learning and text sentiment analysis.
 
 ---
 
-## 📂 Dataset
+# Dataset
 
 - **Source**: [Kaggle - Emotions Dataset for NLP](https://www.kaggle.com/datasets/praveengovi/emotions-dataset-for-nlp)
 - **File Used**: `train.txt`
@@ -25,7 +25,7 @@ Classify emotions such as happy, sad, angry, etc., from text using machine learn
 
 ---
 
-## 🧪 Model Pipeline
+# Model Pipeline
 
 1. Load and preprocess the dataset  
 2. Encode emotion labels  
@@ -35,7 +35,7 @@ Classify emotions such as happy, sad, angry, etc., from text using machine learn
 
 ---
 
-## 🔧 Tech Stack
+# Tech Stack
 
 - Python 🐍  
 - Pandas, NumPy  
@@ -45,7 +45,7 @@ Classify emotions such as happy, sad, angry, etc., from text using machine learn
 
 ---
 
-## 🧾 How to Run
+# How to Run
 
 1. Clone the repository or download the `.ipynb` notebook
 2. Install requirements:
