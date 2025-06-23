@@ -37,7 +37,7 @@ Classify emotions such as happy, sad, angry, etc., from text using machine learn
 
 # Tech Stack
 
-- Python 🐍  
+- Python   
 - Pandas, NumPy  
 - Scikit-learn  
 - TF-IDF Vectorizer  
